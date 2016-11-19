@@ -1,0 +1,29 @@
+{
+    "name": "xhitheme-color",
+    "displayName": "XT Color theme",
+    "description": "Color theme for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "*"
+    },
+    "publisher": "xhi2art",
+    "license": "SEE LICENSE",
+    "categories": [
+        "Themes"
+    ],
+    "homepage": "https://github.com/xhi2art/VsCodeThemes/tree/master/Color",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xhi2art/VSCodeThemes.git"
+	},
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "XhiTheme Color",
+                "uiTheme": "vs-dark",
+                "path": "./XhiTheme Color.tmTheme"
+            }
+        ]
+    }
+}
