@@ -1,0 +1,28 @@
+{
+    "name": "xhitheme-darkorange",
+    "displayName": "XT DarkOrange theme",
+    "description": "DarkOrange theme for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "*"
+    },
+    "publisher": "xhi2art",
+    "license": "SEE LICENSE",
+    "categories": [
+        "Themes"
+    ],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xhi2art/VsCodeThemes/DarkOrange.git"
+	},
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "XhiTheme DarkOrange",
+                "uiTheme": "vs-dark",
+                "path": "./XhiTheme DarkOrange.tmTheme"
+            }
+        ]
+    }
+}
