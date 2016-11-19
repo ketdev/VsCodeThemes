@@ -2,7 +2,7 @@
     "name": "xhitheme-darkorange",
     "displayName": "XT DarkOrange theme",
     "description": "DarkOrange theme for VSCode",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "*"
     },
