@@ -11,9 +11,10 @@
     "categories": [
         "Themes"
     ],
+    "homepage": "https://github.com/xhi2art/VsCodeThemes/tree/master/DarkOrange",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/xhi2art/VsCodeThemes/DarkOrange.git"
+		"url": "https://github.com/xhi2art/VSCodeThemes.git"
 	},
     "icon": "icon.png",
     "contributes": {
